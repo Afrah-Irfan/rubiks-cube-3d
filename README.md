@@ -26,7 +26,7 @@ _(Replace with your actual link)_
 
 ## 📸 Screenshots
 ![screenshot](https://github.com/user-attachments/assets/4d735798-b317-42ef-af8e-06e19c5a9a53)
-
+https://github.com/user-attachments/assets/b39bee8c-bbf3-4082-9703-586bd3352556
 
 ## 📁 How to Run Locally
 
