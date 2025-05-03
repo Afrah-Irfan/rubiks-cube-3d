@@ -14,8 +14,8 @@ This is a 3D interactive Rubik's Cube built with **Three.js**, featuring:
 
 ## 🚀 Live Demo
 
-[🔗 View Project on Netlify](https://your-netlify-link.netlify.app)  
-_(Replace with your actual link)_
+https://github.com/user-attachments/assets/b39bee8c-bbf3-4082-9703-586bd3352556
+
 
 ## 💻 Built With
 
@@ -26,7 +26,6 @@ _(Replace with your actual link)_
 
 ## 📸 Screenshots
 ![screenshot](https://github.com/user-attachments/assets/4d735798-b317-42ef-af8e-06e19c5a9a53)
-https://github.com/user-attachments/assets/b39bee8c-bbf3-4082-9703-586bd3352556
 
 ## 📁 How to Run Locally
 
